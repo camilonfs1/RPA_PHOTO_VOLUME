@@ -1,0 +1,3 @@
+Command to create external volume on linux
+
+docker run -v /home/pc1/Documents/Log_local:/EJEMPLOTE photo

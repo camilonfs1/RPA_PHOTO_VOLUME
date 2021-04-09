@@ -1,0 +1,17 @@
+{
+  "name": "botdocker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "mkdirp": "^1.0.4",
+    "puppeteer": "^3.3.0"
+  },
+  "devDependencies": {
+    "node-datetime": "^2.1.2"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
